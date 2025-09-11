@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.ipynb_checkpoints/
+.env
+.venv/
+# Data (ÇÊÑß raw/ æ processed/ æ cleaned/ ÎÇÑÌ ÇáÜrepo ÚÇÏÉ)
+data/raw/
+data/processed/
+data/cleaned/
+# VSCode
+.vscode/
